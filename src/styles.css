@@ -1,0 +1,47 @@
+body {
+    background-color: #f0f8ff; /* Light background */
+    font-family: 'Arial', sans-serif;
+}
+
+.card {
+    border: none;
+    border-radius: 10px;
+}
+
+.navbar {
+    background-color: #007bff; /* Blue background for navbar */
+}
+
+.navbar-brand,
+.nav-link {
+    color: white !important; /* White text in navbar */
+}
+
+.card-title {
+    color: #28a745; /* Green color for job title */
+}
+
+.btn-primary {
+    background-color: #28a745; /* Green buttons */
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #218838; /* Darker green on hover */
+}
+
+.btn-outline-warning {
+    border-color: #ffc107; /* Yellow border for apply button */
+}
+
+.btn-outline-warning:hover {
+    background-color: #ffc107; /* Yellow background on hover */
+}
+
+.shadow-lg {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+h2 {
+    margin-top: 20px;
+}
